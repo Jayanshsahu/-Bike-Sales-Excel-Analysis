@@ -14,6 +14,7 @@
                     regional trends, and time-based sales, transforming raw data into actionable business insights.
                     #ExcelDashboard #SalesAnalysis #BikeSales #RetailAnalytics #PivotTable #ExcelSlicer #MISProject #DataVisualization`
 
+
 ## 📌 Project Overview
 
 - **Tool Used:** Microsoft Excel  
@@ -21,6 +22,7 @@
 - **Domain:** Retail / Sales / Consumer Analytics  
 - **Key Features:** Pivot Tables, Slicers, Charts, Dashboard Design, Formatting  
 - **File Name:** `Excel Bike Sales Project.xlsx`
+<img width="812" height="262" alt="150430" src="https://github.com/user-attachments/assets/cf955908-03d8-4273-9e7e-71be19236c98" />
 
 
 ## 🧾 Objective
@@ -32,6 +34,7 @@ To provide **data-driven business insights** into bike sales by analyzing variou
 ## 📄 Raw Data Description
 
 The raw dataset contains simulated sales records of bikes and customer demographics. It is structured and cleaned for analysis.
+<img width="958" height="473" alt="145215" src="https://github.com/user-attachments/assets/f8b4a42b-e21c-4057-845e-4f1f9954e2b1" />
 
 
 
@@ -40,10 +43,20 @@ The raw dataset contains simulated sales records of bikes and customer demograph
 - Handled null/missing values  
 - Formatted date columns for time-based analysis  
 - Added calculated column: `Total Sales`
+<img width="780" height="310" alt="145311" src="https://github.com/user-attachments/assets/7813382a-2f40-45b2-b017-df4acca2f4ba" />
+
+.
+
+
+
+
+
+
 
 ## 📊 Pivot Table Analysis
 
 Multiple Pivot Tables were created to summarize and analyze the sales data across various dimensions:
+<img width="821" height="311" alt="150155" src="https://github.com/user-attachments/assets/392a1c58-8d2c-45d3-b476-b2caee0c4552" />
 
 
 
